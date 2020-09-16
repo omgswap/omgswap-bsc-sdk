@@ -1,4 +1,6 @@
-# OMGSwap-BSC SDK for BSC [Binance Smart Chain](https://github.com/binance-chain/)
+## OMGSwap-BSC SDK for BSC </br>
+## [Binance Smart Chain](https://github.com/binance-chain/)
+***************************************
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![npm version](https://img.shields.io/npm/v/@omgswap/bsc-sdk/latest.svg)](https://www.npmjs.com/package/@omgswap/bsc-sdk/v/latest)    
